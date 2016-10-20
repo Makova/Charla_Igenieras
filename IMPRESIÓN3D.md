@@ -36,7 +36,7 @@ El nailon en impresión 3D, en concreto el FDM Nylon 12, se emplea en los sector
 * MADERA:
 Hay quien se atreve incluso con la madera. En este caso el material de impresión se crea a partir de diferentes tipos de madera reciclada, dando como resultado una impresión 3D rígida y tenaz.
 
-[http://ultra-lab.net/blog/nuevo-filamento-%C2%A1woodfill-para-impresiones-de-madera](/img/impresionmadera.jpg)
+![http://ultra-lab.net/blog/nuevo-filamento-%C2%A1woodfill-para-impresiones-de-madera](/img/impresionmadera.jpg)
 
 * CEMENTO:
 El cemento se está empleando en la impresión 3D para crear contruciones. El producto empleado se consigue a partir de un polímero de cemento al que se le añade fibra para aumentar su resistencia.
@@ -48,23 +48,23 @@ Los metales también son aptos para la impresión en 3D. En joyería ya se está
 
 Higados, riñones, orejas y distintos órganos vitales del cuerpo humano ya son posibles con Impresión 3D, el avance en estos últimos 5 años ha sido exponencial y lo seguirá siendo. Nuevos materiales utilizados como filamento e impresoras 3D adaptadas para ello:
 
-[http://www.rankia.com/foros/bolsa/temas/2032745-organovo-bio-nasdaq-impresoras-3d](/img/oreja_impresion3D.png)
+![http://www.rankia.com/foros/bolsa/temas/2032745-organovo-bio-nasdaq-impresoras-3d](/img/oreja_impresion3D.png)
 
 Así como nuevas celulas para curar roturas reemplazando a la tradicional escayola:
 
-[http://territoriodiscovery.discoverymax.marca.com/el-futuro-y-presente-de-las-impresoras-3d/](/img/rotura_impresion3D.png)
+![http://territoriodiscovery.discoverymax.marca.com/el-futuro-y-presente-de-las-impresoras-3d/](/img/rotura_impresion3D.png)
 
 En la construcción se esta llegando a realizar construcciones que jamás se hubiese ni imaginado cuando nacieron las impresoras 3D. Un caso a tener en cuenta es el puente que se esta realizando en Holanda. Se esta construyendo un puente sobre un canal con dos mega impresoras 3D:
 
-[http://www.infobae.com/2015/06/16/1735660-amsterdam-construira-un-puente-acero-una-impresora-3d/](/img/puente_Holanda.png)
+![http://www.infobae.com/2015/06/16/1735660-amsterdam-construira-un-puente-acero-una-impresora-3d/](/img/puente_Holanda.png)
 
 Coches, motos y bicicletas llevan unos años con prototipos totalmente funcionales, aunque sus precios son muy elevados, en cuestión de pocos años y debido a una mayor producción, los costos se verán reducidos a precios asequibles.
 
 Lo mismo paso con los primeros motores eléctricos, al principio valían demasiado y sólo unos pocos podían tener alguno. Hoy día hay una gran cantidad de motores y marcas automovilisticas que producen en serie vehículos con estos motores, bien propulsados a la par con motrores convencionales de gasoil o gasolina o solamente con motror eléctrico, es el caso de la marca Tesla:
 
-[https://es.wikipedia.org/wiki/Tesla_Motors](/img/Tesla.png)
+![https://es.wikipedia.org/wiki/Tesla_Motors](/img/Tesla.png)
 
-(http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle)[/img/bicicleta_3D.png)
+![http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle](/img/bicicleta_3D.png)
 
 
 En otro ámbito y, dentro del desarrollo para la impresión 3D, existen diversas herramientas y programas para iniciarse en este fabuloso mundo.
