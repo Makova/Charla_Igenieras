@@ -52,11 +52,11 @@ Higados, riñones, orejas y distintos órganos vitales del cuerpo humano ya son 
 
 Así como nuevas celulas para curar roturas reemplazando a la tradicional escayola:
 
-![http://territoriodiscovery.discoverymax.marca.com/el-futuro-y-presente-de-las-impresoras-3d/](/img/rotura_impresion3D.png)
+![http://territoriodiscovery.discoverymax.marca.com/el-futuro-y-presente-de-las-impresoras-3d/](/img/rotura_impresion3D.jpg)
 
 En la construcción se esta llegando a realizar construcciones que jamás se hubiese ni imaginado cuando nacieron las impresoras 3D. Un caso a tener en cuenta es el puente que se esta realizando en Holanda. Se esta construyendo un puente sobre un canal con dos mega impresoras 3D:
 
-![http://www.infobae.com/2015/06/16/1735660-amsterdam-construira-un-puente-acero-una-impresora-3d/](/img/puente_Holanda.png)
+![http://www.infobae.com/2015/06/16/1735660-amsterdam-construira-un-puente-acero-una-impresora-3d/](/img/puente_Holanda.jpg)
 
 Coches, motos y bicicletas llevan unos años con prototipos totalmente funcionales, aunque sus precios son muy elevados, en cuestión de pocos años y debido a una mayor producción, los costos se verán reducidos a precios asequibles.
 
