@@ -3,24 +3,24 @@
 Nacimiento del proyecto RepRap en el año 2005. Todas las compañías que se encuentran actualmente dentro del mercado de la impresión 3D están impulsadas por el éxito del proyecto RepRap. 
 RepRap es un proyecto que intenta desarrollar una impresora 3D de código abierto gratuito FOSS, cuyas especificaciones completas son distribuidas bajo la Licencia General Pública GNU; esta impresora puede copiar algunas partes de sí misma y así crear piezas para que uno se haga una impresora y luego él mismo cree las piezas para otros que las necesiten.
 
-Siendo un grupo de tecnologíasn en el cual un objeto tridimensional se crea por la superposición de sucesivas capas de material.Por lo general las impresoras 3d son más rápidas, baratas y más fáciles de usar que otras tecnologías de fabricación por adición.
+Siendo un grupo de tecnologías en el cual un objeto tridimensional se crea por la superposición de sucesivas capas de material. Por lo general las impresoras 3d son más rápidas, baratas y más fáciles de usar que otras tecnologías de fabricación por adición.
 
 Desde 2003, al igual que han ido creciendo las ventas de impresoras 3d también han ido bajando los primeros y caros precios con los que salieron a la venta. 
 
-la impresión que solemos utilizar más es la impresión por injección o (fabricación aditiva) por su bajo coste, velocidad y facilidad de uso. La impesión se realiza capa por capa y el proceso se repite hasta que todas las capas han sido impresas, a veces esas mismas capas son tan finas que son apenas imperceptibles.
+la impresión que solemos utilizar más es la impresión por inyección o (fabricación aditiva) por su bajo coste, velocidad y facilidad de uso. La impesión se realiza capa por capa y el proceso se repite hasta que todas las capas han sido impresas, a veces esas mismas capas son tan finas que son apenas imperceptibles.
 
 * PLA
 La impresión con esta tecnología comienza desde la capa inferior, creando una superficie en la base para poder separar la pieza. Se utiliza un fino hilo de plástico que pasa por el extrusor que es, en resumen, un dispositivo que calienta el material hasta el punto de fusión. En ese momento el plástico se va depositando en la posición correspondiente de la capa que se está imprimiendo en cuestión sobre la cama, en este tipo de hilo se utiliza una cama fría. Además este hilo (ácido poliláctico) es también biodegradable. 
 
 ![](/img/pla.jpg)
 
-![](/img/pla_rollos.jpg)
+![](/img/pla_rollos.png)
 
 ![](/img/camafria.jpg)
 
 ![](/img/camafria1.jpg)
 
-Hay distintos materiales para imprimir, entre ellos el más utilizado es el PLA, el cual realiza unas piezas impresas de buena calida y dureza, pudendo añadir distintos colores en una misma impresión. Proceso capa a capa:
+Hay distintos materiales para imprimir, entre ellos el más utilizado es el PLA, el cual realiza unas piezas impresas de buena cálida y dureza, pudendo añadir distintos colores en una misma impresión. Proceso capa a capa:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SZti0v9sjQI" frameborder="0" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ se usa extensivamente en los procesos de fabricación actuales: piezas de Lego, 
 
 
 * NYLON:
-El nailon en impresión 3D, en concreto el FDM Nylon 12, se emplea en los sectores aeroespacial y de automoción para la fabricación de herramientas de producción, sujecciones y prototipos.
+El nailon en impresión 3D, en concreto el FDM Nylon 12, se emplea en los sectores aeroespacial y de automoción para la fabricación de herramientas de producción, sujeciones y prototipos.
 
 * MADERA:
 Hay quien se atreve incluso con la madera. En este caso el material de impresión se crea a partir de diferentes tipos de madera reciclada, dando como resultado una impresión 3D rígida y tenaz.
@@ -39,14 +39,14 @@ Hay quien se atreve incluso con la madera. En este caso el material de impresió
 ![http://ultra-lab.net/blog/nuevo-filamento-%C2%A1woodfill-para-impresiones-de-madera](/img/impresionmadera.jpg)
 
 * CEMENTO:
-El cemento se está empleando en la impresión 3D para crear contruciones. El producto empleado se consigue a partir de un polímero de cemento al que se le añade fibra para aumentar su resistencia.
+El cemento se está empleando en la impresión 3D para crear construcciones. El producto empleado se consigue a partir de un polímero de cemento al que se le añade fibra para aumentar su resistencia.
 
 * METAL:
-Los metales también son aptos para la impresión en 3D. En joyería ya se están empleando este tipo de técnica para la creacción de piezas, pero es la NASA la que más partido le está sacando en la impresión de piezas para motores. Hace bien poco que una compañía alemana, 3D MicroPrint GmbH, ha creado un método para imprimir piezas diminutas utilizando un láser y metal en polvo.
+Los metales también son aptos para la impresión en 3D. En joyería ya se están empleando este tipo de técnica para la creación de piezas, pero es la NASA la que más partido le está sacando en la impresión de piezas para motores. Hace bien poco que una compañía alemana, 3D MicroPrint GmbH, ha creado un método para imprimir piezas diminutas utilizando un láser y metal en polvo.
 
 ## Órganos en Impresión 3D, construcción y alimentos
 
-Higados, riñones, orejas y distintos órganos vitales del cuerpo humano ya son posibles con Impresión 3D, el avance en estos últimos 5 años ha sido exponencial y lo seguirá siendo. Nuevos materiales utilizados como filamento e impresoras 3D adaptadas para ello:
+Hígados, riñones, orejas y distintos órganos vitales del cuerpo humano ya son posibles con Impresión 3D, el avance en estos últimos 5 años ha sido exponencial y lo seguirá siendo. Nuevos materiales utilizados como filamento e impresoras 3D adaptadas para ello:
 
 ![http://www.rankia.com/foros/bolsa/temas/2032745-organovo-bio-nasdaq-impresoras-3d](/img/oreja_impresion3D.png)
 
