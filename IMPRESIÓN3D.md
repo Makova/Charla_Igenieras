@@ -62,9 +62,9 @@ Coches, motos y bicicletas llevan unos años con prototipos totalmente funcional
 
 Lo mismo paso con los primeros motores eléctricos, al principio valían demasiado y sólo unos pocos podían tener alguno. Hoy día hay una gran cantidad de motores y marcas automovilisticas que producen en serie vehículos con estos motores, bien propulsados a la par con motrores convencionales de gasoil o gasolina o solamente con motror eléctrico, es el caso de la marca Tesla:
 
-![https://es.wikipedia.org/wiki/Tesla_Motors](/img/Tesla.png)
+![https://es.wikipedia.org/wiki/Tesla_Motors](/img/Tesla.jpg)
 
-![http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle](/img/bicicleta_3D.png)
+![http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle](/img/bicicleta_3D.jpg)
 
 
 En otro ámbito y, dentro del desarrollo para la impresión 3D, existen diversas herramientas y programas para iniciarse en este fabuloso mundo.
