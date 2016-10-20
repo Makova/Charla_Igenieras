@@ -64,7 +64,7 @@ Lo mismo paso con los primeros motores eléctricos, al principio valían demasia
 
 [https://es.wikipedia.org/wiki/Tesla_Motors](/img/Tesla.png)
 
-[http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle](/img/bicicleta_3D.png)
+(http://www.xataka.com/makers/brazos-roboticos-que-pueden-imprimir-puentes-y-bicicletas-arc-bycicle)[/img/bicicleta_3D.png)
 
 
 En otro ámbito y, dentro del desarrollo para la impresión 3D, existen diversas herramientas y programas para iniciarse en este fabuloso mundo.
